@@ -1,4 +1,6 @@
-# PortafolioAngular
+# Portafolio Angular
+
+Pagina web que gestiona la informacion de productos, con sus rutas y busqueda de registro, utilizando los servicios de Firebase. Muestra en: https://engelberamaya.github.io/Portafolio-Angular/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
